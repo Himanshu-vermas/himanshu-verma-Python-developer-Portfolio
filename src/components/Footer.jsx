@@ -94,7 +94,7 @@ export default function Footer() {
             © {currentYear} {profileData.name}. All Rights Reserved.
           </div>
           <div>
-            Designed with <i className="bi bi-heart-fill text-danger mx-1"></i> using React & Bootstrap 5
+            Designed with <i className="bi bi-heart-fill text-danger mx-1"></i> using Himanshu Web
           </div>
         </div>
 
